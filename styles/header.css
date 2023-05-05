@@ -228,7 +228,7 @@ nav ul a {
     }
 
     nav {
-        display: none;
+        display: block;
     }
 
     .profile {
